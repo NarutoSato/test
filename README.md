@@ -21,31 +21,5 @@ s本日はお日柄もよく、
 ##### 見出し5
 ###### 見出し6
 
-本日は  
-おひがらもよく  
-こんにちは  
 
-hoge
-fuga(スペース2つ)
-piyo
-
-test
-
-
-tesut2
-sasa  sasasasa  sasasasaa
-
-
-sasa
-sasasasasa
-sasaasasasasas
-
-
-saasa
-
-
-asasasasa
-
-
-
-sasaasasaasa
+[Google](https://www.google.co.jp/)

@@ -25,7 +25,7 @@ s本日はお日柄もよく、
 [Google](https://www.google.co.jp/)
 
 
-![alt](画像URL)
-![代替文字列](URL "タイトル")
+![alt](https://www.thinkgeek.com/images/products/additional/carousel/60fd_resistance_dd.jpg)
+![代替文字列](https://www.thinkgeek.com/images/products/additional/carousel/60fd_resistance_dd.jpg "タイトル")
 
-<img src="attach:cat.jpg" alt="attach:cat" title="attach:cat" width="200" height="200">
+<img src="https://www.thinkgeek.com/images/products/additional/carousel/60fd_resistance_dd.jpg" alt="attach:cat" title="attach:cat" width="200" height="200">
